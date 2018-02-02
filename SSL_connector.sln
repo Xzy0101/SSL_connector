@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSL_connector", "SSL_connector\SSL_connector.vcxproj", "{AC1D1A6E-39B5-475B-970E-B923137A5387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Debug|x64.ActiveCfg = Debug|x64
+		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Debug|x64.Build.0 = Debug|x64
+		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Debug|x86.ActiveCfg = Debug|Win32
+		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Debug|x86.Build.0 = Debug|Win32
+		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Release|x64.ActiveCfg = Release|x64
+		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Release|x64.Build.0 = Release|x64
+		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Release|x86.ActiveCfg = Release|Win32
+		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D00DA9-BA28-445A-86B9-0FC91C6E7E2A}
+	EndGlobalSection
+EndGlobal
