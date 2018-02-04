@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSL_connector", "SSL_connector\SSL_connector.vcxproj", "{AC1D1A6E-39B5-475B-970E-B923137A5387}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ssl_connector_test", "ssl_connector_test\ssl_connector_test.vcxproj", "{325E7B6C-6877-43D0-814B-77CA89CCF137}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Release|x64.Build.0 = Release|x64
 		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Release|x86.ActiveCfg = Release|Win32
 		{AC1D1A6E-39B5-475B-970E-B923137A5387}.Release|x86.Build.0 = Release|Win32
+		{325E7B6C-6877-43D0-814B-77CA89CCF137}.Debug|x64.ActiveCfg = Debug|x64
+		{325E7B6C-6877-43D0-814B-77CA89CCF137}.Debug|x64.Build.0 = Debug|x64
+		{325E7B6C-6877-43D0-814B-77CA89CCF137}.Debug|x86.ActiveCfg = Debug|Win32
+		{325E7B6C-6877-43D0-814B-77CA89CCF137}.Debug|x86.Build.0 = Debug|Win32
+		{325E7B6C-6877-43D0-814B-77CA89CCF137}.Release|x64.ActiveCfg = Release|x64
+		{325E7B6C-6877-43D0-814B-77CA89CCF137}.Release|x64.Build.0 = Release|x64
+		{325E7B6C-6877-43D0-814B-77CA89CCF137}.Release|x86.ActiveCfg = Release|Win32
+		{325E7B6C-6877-43D0-814B-77CA89CCF137}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
